@@ -74,20 +74,20 @@ The main motto is to make the work of the farmers easier by using technologies a
 - [sklearn](https://scikit-learn.org/stable/)
 
 
-### Authors
+## Authors
 
-Sayan Poddar: 
+### Sayan Poddar: 
 - [Linkedin](https://www.linkedin.com/in/sayan-poddar-71777222a/)
 - [Github](https://github.com/DecodewithHappy)
 
-Sayan Debroy:
+### Sayan Debroy:
 - [Linkedin](https://www.linkedin.com/in/sayan-deb-roy-20a124203/)
 - [Github]()
 
-Shukrity Chakraborty
+### Shukrity Chakraborty
 - [Linkedin](https://www.linkedin.com/in/shukrity-chakraborty-5a6507217/)
 - [Github]()
 
-Vibha Yadav
+### Vibha Yadav
 - [Linkedin]()
 - [Github]()
