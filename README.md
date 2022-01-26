@@ -29,7 +29,7 @@ The climatic conditions based on the geographic conditions have also been taken 
 
 ### Screenshot
 
-![](./Images/Screenshot-Output)
+![](./Images/Screenshot-Output.png)
 
 ## My Process
 
